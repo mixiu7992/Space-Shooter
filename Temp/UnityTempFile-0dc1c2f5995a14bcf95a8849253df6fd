@@ -102,6 +102,8 @@
 'Assets/Done/Done_Scripts/Done_WeaponController.cs'
 'Assets/_Scripts/DestoryByContack.cs'
 'Assets/_Scripts/DestroyByBoundary.cs'
+'Assets/_Scripts/DestroyByTime.cs'
+'Assets/_Scripts/GameController.cs'
 'Assets/_Scripts/Mover.cs'
 'Assets/_Scripts/PlayerController.cs'
 'Assets/_Scripts/RandomRotator.cs'
